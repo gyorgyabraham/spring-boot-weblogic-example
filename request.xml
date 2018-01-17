@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:api="http://gyorgyabraham.hu">
+	<soapenv:Header/>
+	<soapenv:Body>
+		<api:RequestStructure>
+			<api:rquid>errer2323sdfsdf</api:rquid>
+		</api:RequestStructure>
+	</soapenv:Body>
+</soapenv:Envelope>
