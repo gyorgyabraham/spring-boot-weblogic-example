@@ -10,7 +10,7 @@ This is a very minimalistic application, but it already has some basics:
 2) Deploy resulting **.war** file into weblogic
 3) You are all set! You can already **POST** request.xml to **http://localhost:7001/mockservice** (provided you have a running weblogic instance locally)
 
-![alt text](https://github.com/gyorgyabraham/spring-boot-weblogic-example/weblogic.png "Deployed into weblogic")
+![alt text](https://raw.githubusercontent.com/gyorgyabraham/spring-boot-weblogic-example/master/weblogic.png "Deployed into weblogic")
 
 ```
 [gyuszi@gyuszidev spring-boot-weblogic-example]$ curl -X POST -H "Content-Type: text/xml" --data-binary @request.xml http://localhost:7001/mockservice
